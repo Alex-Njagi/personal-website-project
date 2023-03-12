@@ -1,28 +1,28 @@
 h1,h2{
     text-align: center;
-    background-color: green;
+    background-color: purple;
     margin: 0%;
 }
 
 body{
-    background-image: url(./TFJ.png);
+    background-image: url(./EH.png);
 }
 
 #image{
     padding: 50px;
     padding-left: 500px;
     align-items: center;
-    background-color: yellowgreen;
+    background-color: blueviolet;
 }
 
 #content{
     text-align: center;
-    background-color: green;
+    background-color: purple;
     margin: 0%;
     padding-top: 0%;
 }
 
 #ranking{
     text-align: center;
-    background-color: yellowgreen;
+    background-color: blueviolet;
 }
